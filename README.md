@@ -20,8 +20,11 @@ This repository contains professional architecture designs, secure CI/CD pipelin
 
 ---
 
-## 3. Identity & Access Management (IAM) Security Flow
+### 3. Identity & Access Management (IAM) Security Flow
+
 * **Authentication:** Microsoft Entra ID with FIDO2 Passwordless Authentication.
 * **Enforcement:** Conditional Access Policy Engine assessing user risk, device compliance, and location before granting access to ePHI databases.
 
-![Identity Access Management Flow](assets/identity-access-flow.png)
+<p align="center">
+  <img src="assets/identity-access-flow.png" alt="Identity & Access Management Flow" width="100%">
+</p>
