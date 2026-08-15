@@ -26,5 +26,5 @@ This repository contains professional architecture designs, secure CI/CD pipelin
 * **Enforcement:** Conditional Access Policy Engine assessing user risk, device compliance, and location before granting access to ePHI databases.
 
 <p align="center">
-  <img src="assets/identity-access-flow.png" alt="Identity & Access Management Flow" width="100%">
+  <img src="./assets/identity-access-flow.png" alt="Identity & Access Management Flow" width="100%">
 </p>
