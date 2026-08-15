@@ -24,4 +24,4 @@ This repository contains professional architecture designs, secure CI/CD pipelin
 * **Authentication:** Microsoft Entra ID with FIDO2 Passwordless Authentication.
 * **Enforcement:** Conditional Access Policy Engine assessing user risk, device compliance, and location before granting access to ePHI databases.
 
-![IAM Flow](./assets/identity-access-flow.png)
+![Identity Access Management Flow](assets/identity-access-flow.png)
